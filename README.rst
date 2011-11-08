@@ -55,16 +55,22 @@ How to contibute to Plone's Robot Framework
 
 Write tests
 -----------
+
 The goal is to increase the test coverage of Plone's javascript.  We are looking for people to write tests to test Plone's javascript.
 
+?? what do we want to test ??
+
+?? do we want to provide guidelines or shall we push to just get more tests without restricting guidelines ??
 
 In addition, we need to work out several issues including
 
-keywords -
-vocabulary/conventions -
-
-
+1. keywords -  ?? explain issue and what we are trying to resolve ??
+   
+2. vocabulary/conventions -  ?? explain issue and what we are trying to resolve ??
+   
+3. directory structure -  ?? explain issue and what we are trying to resolve ??
 
 Intergrate robot framework into Plone's testing framework
 ---------------------------------------------------------
 
+For reasons of test isolation it is important to intergrate the robot framwork into the Plone testing framework.
